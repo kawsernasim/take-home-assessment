@@ -16,7 +16,7 @@ The architecture follows a layered, testable, and extensible design, aligned wit
 - **Mapper Layer**: Converts and validates incoming DTOs to strongly-typed domain models.
 - **Middleware**: Global error handler to standardize exception responses.
 
-**The focus was on achieving a clean separation of concerns, making the codebase easy to maintain and extend.**
+>The focus was on achieving a clean separation of concerns, making the codebase easy to maintain and extend.
 ---
 
 ## Testing Strategy
